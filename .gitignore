@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# MAC temp file
+.DS_Store
+
